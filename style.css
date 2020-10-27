@@ -1,0 +1,31 @@
+
+#mainNav .wpml-ls-legacy-list-horizontal {
+	float: right;
+	border: 0;
+	padding: 2em;
+}
+
+#mainNav .wpml-ls-legacy-list-horizontal a {
+	text-transform: uppercase;
+	font-family: montserrat, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    margin-bottom: 0;
+	  font-weight: 500;
+	color: #414042;
+	padding: 0;
+}
+
+
+#mainNav .wpml-ls-legacy-list-horizontal .wpml-ls-first-item a .wpml-ls-native {
+	border-right: 1px solid;
+	padding-right: 5px;
+	margin-right: 5px
+}
+
+#mainNav .wpml-ls-legacy-list-horizontal a:hover {
+	color: #f28126;
+}
+
+#mainNav .wpml-ls-display {
+	display: none;
+}
